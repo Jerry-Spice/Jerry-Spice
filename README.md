@@ -1,6 +1,6 @@
 # About Jerry Spice
-- 👋 Hi, I’m @Jerry-Spice
-- 👀 I’m interested in game development
+- 👋 Hi, I’m @Jerry-Spice, and I'm in the class of 2023
+- 👀 I’m interested in game development and am planning on studing computer science in College
 - 🌱 I’m currently learning how to program in C.
 - 💞️ I’m looking to collaborate on basically anything at this point.
 - 📫 How to reach me joshbrandon.official@gmail.com
@@ -15,4 +15,5 @@
  - C (currently learning)
  - C#
  - Python
- - HTML+Javascript+CSS
+ - HTML+Javascript+CSS (Ltitle Experience)
+ - Java
