@@ -8,7 +8,7 @@
 ## Some projects I've worked on
  1. Chaos Controller (Google Play Store)
  2. Castle Invader (Google Play Store)
- 3. Dante's Redemption (Currently being developed)
+ 3. Happy Trees (In Development)
 
 
 ## Langauges
