@@ -1,11 +1,11 @@
 # Jerry Spice
-- 👋 Hi, I’m @Jerry-Spice, and I'm in the class of 2027
+- 👋 Hi, I’m @Jerry-Spice aka Josh Brandon, and I'm in the class of 2027
 - 👀 I’m am currently studying Computer Science at Virginia Tech.
 - 🌱 This past summer, I worked as a student intern for NavSea, and I plan on using the software skills I learned to improve my work for school.
-- 📫 Reach me at Joshlandiaofficial@gmail.com
+- 📫 Reach me at joshbrandon.official@gmail.com
 
 ## Personal Projects
-I've worked on many personal projects, though none of them are particularly finished. If you would like to look through them, they're all available on this account. Some are better than others, and typically, the more recent they are, the better they have been developed. The older stuff is not my best work.
+I've worked on many personal projects, though none of them are particularly finished. They're all available on this account if you would like to look through them. Typically, the more recent they are, the better they have developed. The older stuff is not my best work.
 
 ## Course and Work Experience
  - CS 2505: Introduction to Computer Organization (Virginia Tech)
