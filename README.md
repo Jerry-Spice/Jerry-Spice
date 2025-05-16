@@ -19,8 +19,9 @@ I've worked on many personal projects, though none of them are particularly fini
 
 ## Langauges
  - C
- - C#
  - Python
  - HTML+Javascript+CSS
  - Java
  - Bash
+ - PHP
+ - SQL (mySQL & MariaDB)
